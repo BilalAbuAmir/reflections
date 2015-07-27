@@ -1,0 +1,16 @@
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+To have the ability to save manualy, is good. It gives the oppotonity to make reasonable saves/commits whenever changes are made. one thing that is not good, is that forgetfullness can accur so that the gap between two commits becames too large.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git is a tool made for developers, and in this context development work includes multiple files that relate to each others, in that sense that when you change one thing in one file, another change in another related file is demanded.
+
+How can you use the commands git log and git diff to view the history of files?
+I can use git log to see the all the commits that I have commited totally, and git diff can be used to see what changes have accured betwween diffent commits.
+
+How might using version control make you more confident to make changes that could break something?
+Until now it seems that nothing can be broken when using Git as version controll.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I dont know right now
